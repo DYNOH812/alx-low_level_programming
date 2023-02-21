@@ -6,7 +6,7 @@
 * Return: Always 0.
 */
 int main(void)
-    {
+{
 	int count;
 	unsigned long fib1 = 0, fib2 = 1, sum;
 
@@ -21,14 +21,15 @@ int main(void)
 		fib2 = sum;
 
 
-		if (count == 49)
-			printf("\n");
-		else
-			printf(", ");
+	if (count == 49)
+	printf("\n");
+	else
+	printf(", ");
 	}
 
 
 	return (0);
-   }  
+}
+  
 
 
