@@ -21,15 +21,13 @@ int main(void)
 		fib2 = sum;
 
 
-	if (count == 49)
-	printf("\n");
-	else
-	printf(", ");
+		if (count == 49)
+			printf("\n");
+		else
+			printf(", ");
 	}
 
 
 	return (0);
 }
-  
-
 
