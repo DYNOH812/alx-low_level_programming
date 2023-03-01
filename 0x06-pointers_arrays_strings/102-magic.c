@@ -1,11 +1,6 @@
 #include <stdio.h>
-/**
-*Enter  main
-* add a lin
-*Return:0
-*/
-int main(void)
 
+int main(void)
 {
 int n;
 int a[5];
