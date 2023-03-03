@@ -1,6 +1,11 @@
 #include <stdio.h>
-
+/**
+ * main -Entry point
+ * Description: add a line
+ * Return: Always 0 (success)
+ */
 int main(void)
+
 {
 int n;
 int a[5];
